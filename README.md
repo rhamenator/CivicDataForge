@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=".github/assets/logo.png" alt="CivicDataForge logo" width="220">
+</p>
+
 # CivicDataForge
 
 A generic, organization-neutral field/count data validation and profiling tool
